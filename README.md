@@ -117,4 +117,4 @@ docker run -p 8000:8000 image-ocr
 
 ## License
 
-Apache 2.0 - See [LICENSE](https://www.notion.so/LICENSE)
+Apache 2.0 - See [LICENSE](./LICENSE)
